@@ -11,7 +11,7 @@
     "url": "git+https://github.com/riverajohndaniel/merge-pdf-buffers.git"
   },
   "author": "nyel",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/riverajohndaniel/merge-pdf-buffers/issues"
   },
