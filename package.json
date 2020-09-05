@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/riverajohndaniel/merge-pdf-buffers/issues"
   },
-  "homepage": "https://github.com/riverajohndaniel/merge-pdf-buffers#readme"
+  "homepage": "https://github.com/riverajohndaniel/merge-pdf-buffers#readme",
+  "dependencies": {
+    "hummus": "^1.0.108",
+    "memory-streams": "^0.1.3"
+  }
 }
