@@ -1,6 +1,6 @@
 {
   "name": "merge-pdf-buffers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A package that accepts an array of PDF buffers and merges them into one page",
   "main": "index.js",
   "keywords": [

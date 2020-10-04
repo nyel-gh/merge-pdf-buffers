@@ -18,7 +18,7 @@ const merged = await merge([buff1, buff2, ...]);
 
 ES6:
 ```
-import { merge } = require('merge-pdf-buffers');
+import { merge } from 'merge-pdf-buffers';
 
 const merged = await merge([buff1, buff2, ...]);
 ```
