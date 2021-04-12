@@ -1,1 +1,1 @@
-export function merge(buffers: Buffer[]): Buffer
+export function merge(buffers: Buffer[]): Promise<Buffer>
