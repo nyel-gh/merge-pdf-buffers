@@ -20,7 +20,7 @@ exports.merge = async buffers => {
   );
 
   buffers.shift();
-  buffers.map(buffer => {
+  buffers.forEach(buffer => {
     const newPdfStream = new hummus.PDFRStreamForBuffer(buffer);
     pdfWriter.appendPDFPagesFromPDF(newPdfStream);
   });
