@@ -1,4 +1,4 @@
-const hummus = require('hummus');
+const hummus = require('muhammara');
 const memoryStreams = require('memory-streams');
 
 /**
