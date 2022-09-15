@@ -1,11 +1,12 @@
 {
   "name": "merge-pdf-buffers",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A package that accepts an array of PDF buffers and merges them into one page",
   "main": "index.js",
   "keywords": [
     "pdf",
     "hummus",
+    "muhammara",
     "merge",
     "pdf-merge",
     "merge-pdf"
@@ -24,7 +25,10 @@
   },
   "homepage": "https://github.com/nyel-gh/merge-pdf-buffers#readme",
   "dependencies": {
-    "hummus": "^1.0.108",
+    "muhammara": "^3.0.0",
     "memory-streams": "^0.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^16.0.0"
   }
 }
